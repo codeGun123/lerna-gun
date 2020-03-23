@@ -1,5 +1,5 @@
 {
-  "name": "editor",
+  "name": "editor-gun",
   "version": "1.6.3",
   "description": "编辑器",
   "keywords": [
@@ -27,5 +27,5 @@
     "@babel/cli": "^7.8.4",
     "npm-run-all": "^4.1.5"
   },
-  "gitHead": "4540a4f025bc698f4c116798d65a5170b24e1016"
+  "gitHead": "0259c1b8f8e467cda1ead3e3c6cd424dbb5f7ca2"
 }
