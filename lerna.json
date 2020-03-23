@@ -1,0 +1,17 @@
+{
+  "packages": [
+    "packages/*"
+  ],
+  "version": "1.6.1",
+  "npmClient": "yarn",
+  "useWorkspaces": true,
+  "command": {
+    "publish": {
+      "ignoreChanges": [
+        ".gitignore",
+        "*.md"
+      ],
+      "message": "发布版本: publish %s"
+    }
+  }
+}

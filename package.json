@@ -1,0 +1,28 @@
+{
+  "private": true,
+  "name": "editor",
+  "version": "1.6.0",
+  "workspaces": [
+    "packages/*"
+  ],
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "lerna run start --parallel",
+    "build": "lerna run build",
+    "bootstrap": "lerna bootstrap",
+    "clean": "lerna clean -y & lerna run clear",
+    "release": "lerna publish --exact --force-publish --no-push -m \"chore(release): publish %s\" --conventional-commits",
+    "version": "lerna version"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+http://140.143.249.250/renyong/lerna-repo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "lerna": "^3.20.2"
+  }
+}
