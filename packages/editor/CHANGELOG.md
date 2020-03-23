@@ -3,6 +3,14 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## 1.6.2 (2020-03-23)
+
+**Note:** Version bump only for package editor
+
+
+
+
+
 ## [1.5.3](http://140.143.249.250/renyong/lerna-repo/compare/v1.5.2...v1.5.3) (2020-03-23)
 
 **Note:** Version bump only for package editor
