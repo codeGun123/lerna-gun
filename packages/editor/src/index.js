@@ -5,7 +5,7 @@ const defaultValue = {
 }
 const App = (props =defaultValue ) => {
     const { name, address } = props;
-    const info = `编辑器包下面： 姓名：${name} 地址：${address}  `;
+    const info = `编辑器包下面： 姓名：${name} 地址：${address} 123132 `;
 
     console.log(info);
     return info
