@@ -3,6 +3,14 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.6.5](https://github.com/codeGun123/lerna-gun/compare/v1.6.4...v1.6.5) (2020-03-24)
+
+**Note:** Version bump only for package editor-gun
+
+
+
+
+
 ## [1.6.4](https://github.com/codeGun123/lerna-gun/compare/v1.6.3...v1.6.4) (2020-03-23)
 
 **Note:** Version bump only for package editor-gun
