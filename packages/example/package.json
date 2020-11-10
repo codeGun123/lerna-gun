@@ -1,5 +1,5 @@
 {
-  "name": "@editor/example",
+  "name": "example",
   "version": "1.6.5",
   "description": "> TODO: description",
   "author": "renyong <renyong4011@dhcc.com.cn>",
@@ -20,8 +20,6 @@
   },
   "dependencies": {
     "@babel/preset-react": "^7.8.3",
-    "@editor/test": "1.6.5",
-    "editor": "1.6.3",
     "react": "^16.13.1",
     "react-dom": "^16.13.1"
   },
@@ -35,5 +33,5 @@
     "webpack-cli": "^3.3.11",
     "webpack-dev-server": "^3.10.3"
   },
-  "gitHead": "9649f1e6887576ba8b5074cbe856d277f5bed901"
+  "gitHead": "6eaeba6c8b60b68bbfabb99e4b45fdff0408244b"
 }
