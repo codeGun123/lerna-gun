@@ -3,6 +3,14 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.6.7](http://140.143.249.250/renyong/lerna-repo/compare/v1.6.5...v1.6.7) (2020-11-10)
+
+**Note:** Version bump only for package editor-gun
+
+
+
+
+
 ## [1.6.6](http://140.143.249.250/renyong/lerna-repo/compare/v1.6.5...v1.6.6) (2020-11-10)
 
 **Note:** Version bump only for package editor-gun

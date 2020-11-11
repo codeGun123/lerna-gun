@@ -1,0 +1,30 @@
+{
+  "name": "core",
+  "version": "1.6.7",
+  "description": "> TODO: description",
+  "author": "renyong <renyong4011@dhcc.com.cn>",
+  "homepage": "https://github.com/codeGun123/lerna-gun#readme",
+  "license": "ISC",
+  "main": "src/core.js",
+  "module": "dist/core.module.js",
+  "directories": {
+    "lib": "dist",
+    "test": "__tests__"
+  },
+  "files": [
+    "dist"
+  ],
+  "publishConfig": {
+    "registry": "https://registry.npm.taobao.org"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codeGun123/lerna-gun.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/codeGun123/lerna-gun/issues"
+  }
+}
