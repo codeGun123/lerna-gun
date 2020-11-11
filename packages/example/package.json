@@ -1,6 +1,6 @@
 {
   "name": "example",
-  "version": "1.6.7",
+  "version": "1.6.8",
   "description": "> TODO: description",
   "author": "renyong <renyong4011@dhcc.com.cn>",
   "homepage": "",
@@ -20,8 +20,8 @@
   },
   "dependencies": {
     "@babel/preset-react": "^7.8.3",
-    "core": "^1.6.7",
-    "editor": "^1.6.7",
+    "core": "1.6.8",
+    "editor": "1.6.8",
     "react": "^16.13.1",
     "react-dom": "^16.13.1"
   },

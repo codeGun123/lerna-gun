@@ -4,4 +4,3 @@ lerna-debug.log
 lib
 dist
 .DS_Store
-package.json
