@@ -1,6 +1,6 @@
 {
   "private": true,
-  "name": "editor-gun",
+  "name": "editor-big-gun",
   "version": "1.7.1",
   "workspaces": [
     "packages/*"
